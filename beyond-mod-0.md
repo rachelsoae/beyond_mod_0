@@ -12,35 +12,37 @@ My highest priority during this interlude will be to maintain, and hopefully bui
 Week 1️⃣ Goal: 15 hours
 
 Week 2️⃣ Goal: 35 hours
+### *This Week/Weekend:*
 
-[x] Sign up for CodeWars
+✅ Sign up for CodeWars
 
-[ ] Finish Problem Solving challenges
+🔳 Finish Problem Solving challenges
 
-[ ] Make a list of concepts to study. Include:
+🔳 Make a list of concepts to study. Include:
     
 - Review Mod 0 examples/practices/assignments/pairing practices
 - Which ones are most difficult? 
 - Combining concepts 
 
-[ ] Think about note-taking methods. What worked best during Mod 0?
+🔳 Think about note-taking methods. What worked best during Mod 0?
 
 ---
 
 ## Organizational Tasks
-[ ] Update calendar to include:
+✅  Update calendar to include:
 - 📚  study/practice blocks
 - 🏀  KU games
 - 💫  Saturdate
 - 🎹  production
+- 🍎  meal prep
 
-[ ] Buy a laptop stand
+🔳 Buy a laptop stand
 
-[ ] Buy drawers to organize office supplies
+🔳 Buy drawers to organize office supplies
 
-[ ] Organize work area
+🔳 Organize work area
 
-[ ] Secure HDMI switch & USB dongle
+🔳 Secure HDMI switch & USB dongle
 
 ---
 
